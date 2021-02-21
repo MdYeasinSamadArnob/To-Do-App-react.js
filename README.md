@@ -1,5 +1,11 @@
 Library Learned was [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+### `LIVE DEMO:`
+https://hxxiz.csb.app/
+
+[The project can be viewed live in the above link] 
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -8,9 +14,6 @@ In the project directory, you can run:
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-### `LIVE DEMO:`
-https://hxxiz.csb.app/
 
 
 The page will reload if you make edits.<br />
